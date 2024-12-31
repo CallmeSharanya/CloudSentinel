@@ -4,3 +4,5 @@ High-security Cloud-based file management system that combines homomorphic encry
 [Sem 3 EL Notes - Google Docs](https://docs.google.com/document/d/1AUUXdAZ9HzzbgChV9rjBbUaT6gS2yalLxsJ4jp4YLI0/edit?usp=sharing)
 
 [Sem 3 EL - Literature Review](https://docs.google.com/document/d/1XMi4k9VejN87kfKJshke6Bl1KBHwN6GT1xHwnmcnAmo/edit?usp=sharing)
+
+[Sem 3 EL - Report](https://docs.google.com/document/d/1ja7UDGiQeKzVn906ft6aKpw5iJ4AvB3CzQH19dkeI-4/edit?usp=sharing)
